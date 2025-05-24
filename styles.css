@@ -69,8 +69,6 @@ header {
     background-color: #0d5e6a;  /* Cor quando passa o mouse */
   }
   
-  
-
 /* Corpo do site */
 body {
     background: url('./img/KaktusFundoTela.jpg') no-repeat center center/cover;
@@ -160,8 +158,6 @@ nav ul li a {
   margin: 10px 50px; /* espaçamento entre o <p> e o botão */
  
 }
-
-
 
 /*Section Quem somos*/
 .kaktus .container {
